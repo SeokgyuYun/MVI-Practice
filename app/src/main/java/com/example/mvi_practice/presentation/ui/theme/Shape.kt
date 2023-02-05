@@ -1,4 +1,4 @@
-package com.example.mvi_practice.ui.theme
+package com.example.mvi_practice.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

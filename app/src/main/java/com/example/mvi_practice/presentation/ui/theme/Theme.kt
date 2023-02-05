@@ -1,4 +1,4 @@
-package com.example.mvi_practice.ui.theme
+package com.example.mvi_practice.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
